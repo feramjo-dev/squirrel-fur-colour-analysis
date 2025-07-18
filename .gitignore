@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+.venv/
+env/
+venv/
+
+# Ignore output files
+squirrel.count.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
